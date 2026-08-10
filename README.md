@@ -120,7 +120,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:8E2DE2,100:00F0FF&height=40" width="100%"/>
 
-## 🐍 Contribution Snake <sub>(the crown jewel — literally a snake eating your commits)</sub>
+## 🐍 Contribution Snake <sub>(the crown jewel — )</sub>
 
 <p align="center">
   <picture>
@@ -129,7 +129,7 @@
     <img alt="github-contribution-snake" src="https://raw.githubusercontent.com/PashaNasirahmadi/PashaNasirahmadi/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </p>
-<p align="center"><sub>⚙️ one-time setup required — see <code>snake.yml</code> below</sub></p>
+<p align="center"><sub>⚙️ hungry for succsess — see <code>snake.yml</code> below</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8E2DE2,100:FF00E5&height=40" width="100%"/>
 
